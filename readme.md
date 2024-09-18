@@ -81,3 +81,6 @@ Licensed under Attribution 4.0 International (CC BY 4.0): https://creativecommon
 
 Find a complete [logfile](logfile.md) after reading a Credit Card with the app with the [link](logfile.md).
 
+## License
+
+Talk to your Credit Card Part 1 is available under the MIT license. See the LICENSE.md file for more info.
